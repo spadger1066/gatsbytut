@@ -1,0 +1,9 @@
+.page {
+    background-color: beige;
+}
+.page h1 {
+    color: purple;
+}
+.text {
+    text-transform: lowercase;
+}
